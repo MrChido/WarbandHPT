@@ -1,0 +1,15 @@
+.vClass{color: rgb(83, 104, 120);
+ background-color: rgba(228, 39, 26, 0.5);
+ width: 55px;}
+ .fClass{
+ color:#50c878;
+ background-color: rgba(0, 66, 37, 0.75);
+ width:55px}
+ .rClass{
+ background-color: #0B4A92;
+ color:#6082b6;
+ width:55px;}
+ #wLeader{
+ color: black;
+ background-color:#d4af37;
+ width:55px;}
